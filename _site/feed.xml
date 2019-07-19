@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jul 2019 19:46:32 +0800</pubDate>
-    <lastBuildDate>Wed, 17 Jul 2019 19:46:32 +0800</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2019 15:18:20 +0800</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2019 15:18:20 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;:)&lt;/p&gt;
 
-&lt;p&gt;若有不正之处，不吝指出；&lt;/p&gt;
+&lt;p&gt;若有不正之处，还希望你能指出；&lt;/p&gt;
 
 &lt;p&gt;Java 中数据类型可分为两大类：基本数据类型与引用(复合)数据类型；&lt;/p&gt;
 
@@ -105,8 +105,8 @@
 &lt;p&gt;:)&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Jul 2019 17:09:00 +0800</pubDate>
-        <link>http://yourdomain.com/2019/07/17/Java%E4%B8%ADequals%E4%B8%8E==%E7%9A%84%E5%8C%BA%E5%88%AB.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2019/07/17/Java%E4%B8%ADequals%E4%B8%8E==%E7%9A%84%E5%8C%BA%E5%88%AB.html</guid>
+        <link>http://yourdomain.com/2019/07/17/diff-equals-==.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2019/07/17/diff-equals-==.html</guid>
         
         
       </item>
